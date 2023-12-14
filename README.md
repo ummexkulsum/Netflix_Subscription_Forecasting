@@ -1,2 +1,3 @@
 # Netflix_Subscription_Forecasting
 Using techniques like time series forecasting, Netflix can estimate the expected number of new subscribers in a given time period and better understand the growth potential of their business.
+The Netflix subscription forecasting project aims to predict future subscription numbers for the next five years using historical data. Leveraging advanced time series forecasting models like ARIMA, the goal is to provide a high-accuracy prediction that informs strategic decisions and facilitates proactive resource planning for Netflix's continued growth. It enhances operational efficiency, financial planning, and content strategy, ultimately contributing to their success and growth in the highly competitive streaming industry.
